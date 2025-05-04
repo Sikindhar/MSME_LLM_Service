@@ -42,6 +42,6 @@ pip install -r requirements.txt
 - Hugging Face team
 - Yelp Dataset
 
- ##  Acknowledgments
+ ##  Note
 
  - will be improving this model performance on fine-tunning and training on more data , and then create a web service to actually make a perfect use-case and helpful for MSME's.
