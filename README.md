@@ -45,3 +45,12 @@ pip install -r requirements.txt
  ##  Note
 
  - will be improving this model performance on fine-tunning and training on more data , and then create a web service to actually make a perfect use-case and helpful for MSME's.
+ - 🤝 Contributing
+
+Contributions are welcome! Feel free to fork the repository and submit pull requests.
+
+📧 Contact at sikindharjaladi@gmail.com
+
+For any queries or support, reach out via the Contact Us page on the platform.
+
+Made with ❤️ by EngineeringMachines
