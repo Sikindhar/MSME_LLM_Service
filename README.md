@@ -27,7 +27,7 @@ This project aims to provide small and medium-sized enterprises with an accessib
 ##  Installation
 
 ```bash
-git clone https://github.com/yourusername/MSME_LLM_Service
+git clone https://github.com/Sikindhar/MSME_LLM_Service
 cd MSME_LLM_Service
 pip install -r requirements.txt
 ```
